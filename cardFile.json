@@ -1,0 +1,164 @@
+[
+  {
+    "type": "basic",
+    "date": 1506732118435,
+    "front": "Who composed Beethoven's Fifth Symphony?",
+    "back": "Beethoven"
+  },
+  {
+    "type": "basic",
+    "date": 1506732420224,
+    "front": "What was Franz Schubert's first name?",
+    "back": "Franz"
+  },
+  {
+    "type": "basic",
+    "date": 1506735779476,
+    "front": "When was the War of 1812?",
+    "back": "1812"
+  },
+  {
+    "type": "basic",
+    "date": 1506736644128,
+    "front": "Who was Washington D.C. named after? (last name)",
+    "back": "Washington"
+  },
+  {
+    "type": "basic",
+    "date": 1506739330311,
+    "front": "What sport is played with a basketball?",
+    "back": "Basketball"
+  },
+  {
+    "type": "basic",
+    "date": 1506741887753,
+    "front": "What is the main ingredient in apple pie?",
+    "back": "apples"
+  },
+  {
+    "type": "cloze",
+    "date": 1506743967226,
+    "front": "The quick brown fox jumps over the \"...\".",
+    "back": "lazy dog"
+  },
+  {
+    "type": "cloze",
+    "date": 1506744176050,
+    "front": "What is the abbreviation for the United States of America? (Don't forget the dots.)",
+    "back": "U.S.A."
+  },
+  {
+    "type": "cloze",
+    "date": 1506744266901,
+    "front": "To err is human, to forgive \"...\".",
+    "back": "divine"
+  },
+  {
+    "type": "basic",
+    "date": 1506745217952,
+    "front": "What kind of animal wears a horseshoe? (singular)",
+    "back": "horse"
+  },
+  {
+    "type": "cloze",
+    "date": 1506745301551,
+    "front": "Roses are red, \"...\" are blue.",
+    "back": "violets"
+  },
+  {
+    "type": "cloze",
+    "date": 1506746164149,
+    "front": "'Twas the night before Christmas, and all through the house, not a creature was stirring, not even a \"...\".",
+    "back": "mouse"
+  },
+  {
+    "type": "cloze",
+    "date": 1506746783439,
+    "front": "The capital of \"...\" is Mexico City.",
+    "back": "Mexico"
+  },
+  {
+    "type": "basic",
+    "date": 1506746902003,
+    "front": "What parts of the body do ear, nose, and throat doctors specialize in? (List three without commas.)",
+    "back": "ears noses throats"
+  },
+  {
+    "type": "basic",
+    "date": 1506747238474,
+    "front": "Which came first, World War 1 or World War 2?",
+    "back": "World War 1"
+  },
+  {
+    "type": "basic",
+    "date": 1506807688742,
+    "front": "Where was the treaty of Paris signed?",
+    "back": "Paris"
+  },
+  {
+    "type": "cloze",
+    "date": 1506807733449,
+    "front": "Jack and \"...\" went up the hill to fetch a pail of water.",
+    "back": "Jill"
+  },
+  {
+    "type": "basic",
+    "date": 1506820292524,
+    "front": "How many musicians were in the Jackson Five? (Answer with a digit.)",
+    "back": "5"
+  },
+  {
+    "type": "cloze",
+    "date": 1506821231842,
+    "front": "To be, or not to be, that is the \"...\".",
+    "back": "question"
+  },
+  {
+    "type": "cloze",
+    "date": 1506821386058,
+    "front": "It was the best of times, it was the \"...\" of times...",
+    "back": "worst"
+  },
+  {
+    "type": "cloze",
+    "date": 1506821590207,
+    "front": "The Good, the Bad, and the \"...\"",
+    "back": "Ugly"
+  },
+  {
+    "type": "basic",
+    "date": 1506906758823,
+    "front": "When is the Fourth of July?",
+    "back": "July 4"
+  },
+  {
+    "type": "cloze",
+    "date": 1506907157761,
+    "front": "It's deja vu all \"...\".",
+    "back": "over again"
+  },
+  {
+    "type": "cloze",
+    "date": 1506906905155,
+    "front": "It's \"...\" all over again.",
+    "back": "deja vu"
+  },
+  {
+    "type": "basic",
+    "date": 1506990728385,
+    "front": "How many tires are on an 18-wheeler?",
+    "back": "18"
+  },
+  {
+    "type": "basic",
+    "date": 1506991614484,
+    "front": "What color is the Red Sea?",
+    "back": "blue"
+  },
+  {
+    "type": "cloze",
+    "date": 1506993269218,
+    "front": "In 1492 \"...\" sailed the ocean blue.",
+    "back": "Columbus"
+  }
+]
